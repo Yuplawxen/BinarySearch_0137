@@ -50,4 +50,12 @@ void bubbleSortArray()
     }while (pass <= nPanjang - 1);
 }
 
+void display()
+{
+    cout << "\n===========================================\n";
+    cout << "\n            Element Setelah Urut           \n";
+    cout << "\n===========================================\n";
+
+
+}
 
