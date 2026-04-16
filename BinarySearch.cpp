@@ -69,13 +69,15 @@ void display()
 
 void BinarySearch() 
 {
+    char ulang; 
+    do 
+    {
+        cout << "\n===========================================\n";
+        cout << "\n          Pencarian Binary Search          \n";
+        cout << "\n===========================================\n";
 
+
+
+    }
 }
 
-int main ()
-{
-    input();
-    bubbleSortArray();
-    display();
-    BinarySearch();
-}
